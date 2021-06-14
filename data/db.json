@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "likes": 30,
+      "title": "Bitcoin Climbs Above $40,000 Again. Yes, It’s Because of Elon Musk.",
+      "body": "Bitcoin investors who have been waiting for Elon Musk to swoop in and rescue the cryptocurrency from a weekslong rut may have just gotten their wish. For now, at least."
+    },
+    {
+      "id": 2,
+      "likes": 15,
+      "title": "What you need to know to start investing in cryptocurrency right now",
+      "body": "It’s been a hot year for cryptocurrencies, and 2021 isn’t even halfway over. The total value of cryptocurrencies briefly surpassed $2.5 trillion in May as a plethora of new investors jumped in, and now approximately 14% of American adults own cryptocurrencies. Cryptocurrencies are digital assets that are exchanged online on exchanges like Coinbase (the largest U.S. crypto exchange) and Gemini or via online brokers like Robinhood and SoFi Invest."
+    },
+    {
+      "title": "Thailand bans meme coins and NFTs as part of crypto crackdown",
+      "body": "Thailand is the latest country to impose curbs on cryptocurrency trading. The southeast Asian nation's Securities and Exchange Commission (SEC) has implemented a ban on meme coins like Dogecoin. Last week, exchanges were ordered to delist the coins, along with NFTs, utility tokens and social tokens, within 30 days. According to the Thai SEC, the new rules are aimed at protecting traders from tokens that have 'no clear objective or substance' and whose prices are swayed by social media trends and influencers. Dogecoin, in particular, has seen its online buzz skyrocket thanks to mentions from Elon Musk (including during his stint hosting SNL). The so-called meme coin's price has fluctuated more recently amid crypto volatility fuelled by bans in China and potential restrictions in India. On the flip side, El Salvador recently became the first nation to accept Bitcoin as legal tender.",
+      "likes": 20,
+      "id": 3
+    },
+    {
+      "title": "Buy Cardano While Whales Continue to Accumulate Bitcoin",
+      "body": "Bitcoin (CCC:BTC-USD), and cryptos in general, have been stuck in a sideways trading pattern lately. They have strong resistance, but they also have strong support.",
+      "likes": 69,
+      "id": 4
+    }
+  ]
+}
