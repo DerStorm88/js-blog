@@ -5,8 +5,7 @@ How to use:
 Download ZIP with latest version from master branch.
 
 To run the project, you need a Live Server
-
-Next, you need to install the json-server on which the database will be deployed
+You will also need a JSON Server
 
 Install JSON Server
 
